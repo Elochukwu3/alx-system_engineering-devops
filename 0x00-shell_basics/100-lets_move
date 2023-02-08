@@ -1,2 +1,3 @@
 #!/bin/bash
 [[:upper:]]* /temp/u
+[[:upper:]]* /tmp/u
